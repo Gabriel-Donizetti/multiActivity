@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">multiActivity</string>
+    <string name="nota_2">Nota 2</string>
+    <string name="frequ_ncia">Frequência</string>
+    <string name="nome_do_aluno">Nome do aluno</string>
+    <string name="nota_1">Nota 1</string>
+    <string name="situa_o_final">Situação final</string>
+</resources>
